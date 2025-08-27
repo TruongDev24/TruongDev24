@@ -22,3 +22,8 @@
 - 📚 Learning English & preparing for **IELTS**  
 - 🎯 Aspiration: Become a skilled **Fullstack Developer**  
 - ⚡ Fun fact: I enjoy exploring new tech while sipping coffee ☕  
+
+
+## 📫 Contact Me
+
+[![Gmail Badge](https://img.shields.io/badge/-truonglevan496@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:truonglevan496@gmail.com)
