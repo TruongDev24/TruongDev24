@@ -13,3 +13,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+## 👨‍💻 About Me
+
+- 🌱 Currently studying at **FPT Polytechnic** (Software Development – Java)  
+- 💻 Passionate about **Mobile & Backend Development**  
+- 🚀 Tech stack: **Java | JavaScript | TypeScript | SQL | React | Next.js | TailwindCSS**  
+- 📚 Learning English & preparing for **IELTS**  
+- 🎯 Aspiration: Become a skilled **Fullstack Developer**  
+- ⚡ Fun fact: I enjoy exploring new tech while sipping coffee ☕  
