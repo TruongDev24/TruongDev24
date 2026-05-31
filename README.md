@@ -1,7 +1,11 @@
 # ⚡ Hi, I'm Truong!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3182ce&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Next.js+%26+NestJS+Developer;Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=3182ce&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Fullstack+Web+Developer;Next.js+%26+NestJS+Developer;Spring+Boot+Developer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TruongDev24&amp;color=3182ce&amp;style=flat-square&amp;label=Profile+Views" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -26,7 +30,7 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Full-Stack Web Developer** graduated from **FPT Polytechnic** (majoring in Software Development - Java stack). I specialize in building robust, performant web applications with real-time features, secure payment processing, and scalable backend architectures.
+I am a passionate **Full-Stack Web Developer** graduated from **FPT Polytechnic** (majoring in Software Development - Java stack). I specialize in building robust, performant web applications using **Java/Spring Boot** and **TypeScript/NestJS**, focusing on real-time features, secure payment processing, and scalable architectures.
 
 - 🎓 **Education:** Graduated from **FPT Polytechnic** (Software Development).
 - 💻 **Core Focus:** Full-stack Web Development, API Design, and Database Architecture.
@@ -35,64 +39,33 @@ I am a passionate **Full-Stack Web Developer** graduated from **FPT Polytechnic*
 
 ---
 
-### 📈 GitHub Trophies
+### 📊 GitHub Activity & Profile Summary
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TruongDev24&theme=radical&column=7&margin-w=15&margin-h=15" alt="Github Trophies" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TruongDev24&amp;theme=radical" alt="GitHub Profile Details" width="98%" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Core Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="30%"><b>Languages</b></td>
-    <td align="center" width="35%"><b>Frontend</b></td>
-    <td align="center" width="35%"><b>Backend & Database</b></td>
-  </tr>
-  <tr valign="top">
-    <td>
-      • <b>Java</b><br>
-      • <b>TypeScript</b><br>
-      • <b>JavaScript</b> (ES6+)<br>
-      • <b>SQL</b>
-    </td>
-    <td>
-      • Next.js 15 (App Router)<br>
-      • React.js<br>
-      • Tailwind CSS<br>
-      • TanStack Query (React Query)<br>
-      • HTML5 & CSS3
-    </td>
-    <td>
-      • NestJS<br>
-      • Node.js<br>
-      • Prisma ORM / JPA / JDBC<br>
-      • PostgreSQL / MySQL / SQL Server<br>
-      • Redis (Caching & Locking)<br>
-      • BullMQ (Queue System)
-    </td>
-  </tr>
-</table>
-
-#### 🔧 Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Databases & Caching** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
 ---
 
-### 🏆 Featured Project
+### 🏆 Highlighted Projects
 
-#### 🏸 [NOVA Booking](https://github.com/TruongDev24/nova-booking) — *Premium Badminton Court Booking & Management Platform*
+*Here are the main projects showcasing my technical expertise:*
+
+#### 🏸 1. [NOVA Booking](https://github.com/TruongDev24/nova-booking) — *Premium Badminton Court Booking & Management Platform*
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -111,21 +84,44 @@ A production-grade, service-oriented web application designed to optimize court 
 - **📊 Admin Analytics Dashboard:** Rich data visualization showing key performance indicators: overall revenue, occupancy rates, user retention, and court utilization hours.
 - **🛠️ Service Operations:** Complete CRUD for court settings (utilizing **Cloudinary** for image assets), flexible price-by-hour policies, and full maintenance scheduling that auto-notifies impacted clients via email.
 
----
+<br>
 
-### 🚀 Other Web & Database Projects
+#### 🛍️ 2. [Yellow Cat (Sneak Peak)](https://github.com/nongtiensonpro/Yellow_Cat_Web) — *Enterprise E-Commerce & Sales Management Platform*
 
-#### 🚚 [movex-shipping](https://github.com/TruongDev24/movex-shipping) — *Logistics & Shipping Web Application*
-- A clean, responsive logistics web interface created to handle delivery management, shipment tracking, and booking flows.
-- **Keywords:** Logistics Dashboard, Responsive Design, Modern Web Technologies.
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Keycloak-005C84?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
+</p>
 
-#### 📖 [BookStoreFinal](https://github.com/TruongDev24/BookStoreFinal) — *Java-based Bookstore Management*
-- A backend/desktop software solution modeling bookstore business logic, checkout transactions, and inventory control.
-- **Keywords:** Java Core, Object-Oriented Design (OOD), Database Persistence.
+A highly scalable, distributed E-Commerce platform built with a clear separation of concerns, providing full product catalogs, shopping checkout loops, and an intensive administrative management panel.
 
-#### 📊 [TNBike Analytics & Forecasting](https://github.com/TruongDev24/tnbike-analytics-final) — *Database Analytics & Demand Prediction*
-- Data-driven projects analyzing city bike rental databases using advanced **PL/pgSQL** scripting and forecasting user demand via **Jupyter Notebook** notebooks.
-- **Keywords:** PostgreSQL, Database Analytics, Jupyter Notebook, Trend Forecasting.
+- **🔐 Identity & Access Management (IAM):** Fully secured authentication and role-based access control (RBAC) integrated with **Keycloak** (OAuth2/OIDC) and **NextAuth.js**, featuring seamless user profile synchronization.
+- **💸 Multi-Payment Integrations:** Supported online transactions via dual integrations with **ZaloPay** and **VNPay** merchant APIs.
+- **🚚 Logistics API Integration:** Integrated with the **Giao Hàng Tiết Kiệm (GHTK)** API for shipping calculations and automated order status tracking.
+- **⚡ Real-time Communication:** Built STOMP over **WebSockets** support for instant alerts, notifications, and real-time transactional updates.
+- **📦 Reliable Data & DevOps:** Structured schema migrations with **FlywayDB**, optimized DB pooling with **HikariCP**, resilient API calls using **Spring Retry** and **Resilience4j**, and automated testing/deployments with **GitHub Actions**.
+
+<br>
+
+#### 📊 3. [TNBike Analytics](https://github.com/TruongDev24/tnbike-analytics-final) — *B2B Demand Forecasting & Dealer Analytics*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Gemini_AI-edf2f7?style=flat-square&logo=google-gemini&logoColor=blue" alt="Gemini AI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+An end-to-end B2B data science and analytics pipeline built for **Thống Nhất Bike** (a major Vietnamese bicycle distributor) to forecast demand, segment dealers, predict churn, and generate executive business insights.
+
+- **📈 Demand Forecasting:** Evaluated multiple time-series models (SARIMA, LightGBM, Holt-Winters ETS) to forecast Q2/2026 sales, with **Holt-Winters ETS** achieving the best performance (MAE 2.47B VND, sMAPE 63.8%).
+- **👥 RFM & Churn Modeling:** Segmented 702 B2B dealers using RFM analysis, predicted customer churn using **Logistic Regression** (ROC-AUC: 0.717), and estimated 90-day Customer Lifetime Value (CLV) with **BG-NBD + Gamma-Gamma** models.
+- **⚙️ ETL & Data Pipeline:** Built an automated ETL pipeline (`pipeline_clean.ipynb`) to ingest ZIP files, clean history records, parse 1,132 order emails (`.eml` using customized regex patterns), and assemble a unified SQLite relational database.
+- **🤖 GenAI Executive Summarization:** Integrated the **Google GenAI SDK** (`gemini-2.5-flash-lite`) to digest complex model findings and automatically draft 5 key actionable business initiatives for the C-level executives.
 
 ---
 
@@ -137,14 +133,18 @@ A production-grade, service-oriented web application designed to optimize court 
 
 ---
 
-### 📊 GitHub Statistics
+### 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TruongDev24&show_icons=true&theme=radical" alt="Truong's GitHub stats" width="48%" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruongDev24&layout=compact&theme=radical" alt="Top Langs" width="48%" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TruongDev24&amp;theme=radical" alt="GitHub Activity Graph" width="98%" />
+  </a>
 </p>
 
+---
+
+### 💬 Random Programming Quote
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TruongDev24&theme=radical" alt="GitHub Streak" width="98%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="Random Programming Quote" />
 </p>
